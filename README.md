@@ -1,43 +1,51 @@
-# Telecom Customer Churn Analysis (Power BI)
+# 📉 Customer Churn Analysis (Telecom) – Power BI Project
 
-## Overview
-This project analyzes customer churn data using an interactive Power BI dashboard. It compares **customer vs churner profiles**, helping identify key churn factors such as demographics, contract types, tenure, internet service, and billing behavior.
-
-## Tools & Technologies
-
-* **Power BI**
-* **Excel** (data source)
-* **Data cleaning & transformation**
-* **DAX** (for calculated measures)
-
-## Dashboard Insights
-
-* **Customer Profile** vs **Churner Profile** side-by-side
-* Analysis by:
-
-  * Age group & senior citizen status
-  * Internet & phone services
-  * Contract type
-  * Payment method
-  * Average charges (monthly & total)
-
-##  Files Included
-
-* `Telco-Churn-Analysis.pbix` – Power BI dashboard file
-* `Churned_Data.xlsx` – Dataset used
+> 🔍 **To explore the analysis, open the .pbix file in Power BI Desktop and the .xlsx or .csv data file in Excel.**
 
 ---
 
-##  How to Use
+## 🗂 Repository Overview
 
-1. Open the `.pbix` file using Power BI Desktop.
-2. Explore different visuals using filters.
-3. Identify patterns and churn reasons visually.
+This repository contains an end-to-end *Customer Churn Analysis* project for a telecom company. The project compares churned vs active customers and identifies patterns in behavior, demographics, and billing preferences using interactive Power BI dashboards.
 
-##  Use Cases
+---
 
-* Business Intelligence
-* Customer Retention Strategy
-* Telecom Analytics
-* Data Storytelling
+## 📌 Project Description
+
+The dashboard answers key business questions like:
+- What are the key demographics of churners?
+- Do certain services, contract types, or payment methods increase churn?
+- How do active customers differ from churned ones in usage or billing?
+
+### Key Highlights:
+- Built comparative dashboards for *Churner* and *Customer* profiles
+- Highlighted churn-prone categories and behaviors
+- Designed visual storytelling to support strategic retention efforts
+
+---
+
+## 🧰 Tools & Technologies Used
+
+- *Power BI* – For interactive dashboards  
+- *Excel* – For preprocessing and organizing raw data  
+- *DAX* – For calculated columns and KPIs  
+- *Descriptive Statistics* – For trend discovery and segmentation  
+
+---
+
+## 📊 Dashboard Snapshot
+
+> Dashboard compares churned vs retained customers by age group, tenure, phone service, contract type, internet service, payment methods, and more.
+
+![Customer Churn Dashboard](./assets/Customer_Churn_Dashboard.jpg)
+
+---
+
+## 🚀 How to Use This Repository
+
+To get started:
+
+1. *Clone or Download the repository*:
+   ```bash
+   git clone https://github.com/your-username/Customer-Churn-Analysis.git
 
