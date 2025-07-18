@@ -1,6 +1,5 @@
 # Customer-Churn-Analysis-POWER-BI-
 Power BI dashboard for Telecom Customer Churn Analysis. Visualizes customer vs churner profiles, tenure, service types, and payment behavior to identify churn patterns and business insights.
-Here’s a simple yet effective structure for your `README.md` file for the **Telecom Customer Churn Analysis** Power BI project:
 
 ---
 
